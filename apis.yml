@@ -46,7 +46,7 @@ x-domain-status:
   resolves: true
   note: Serves an unrelated third-party site (OVH hosting, TLS certificate for swagcrush.com). Not
     Artivest.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
