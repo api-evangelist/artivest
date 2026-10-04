@@ -64,7 +64,7 @@ tags:
 - Company
 - Defunct
 - Acquired
-- Financial-Services
+- Financial Services
 - Alternative Investments
 - Wealth Management
 - Fintech
@@ -78,6 +78,7 @@ tags_raw:
 - Wealth Management
 - Fintech
 - Private Markets
+- Financial-Services
 apis: []
 maintainers:
 - FN: Kin Lane
