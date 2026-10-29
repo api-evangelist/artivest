@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Artivest is a company surfaced as a portfolio company of 500-global, anthemis and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: 500-global, anthemis — https://artivest.co
+Artivest was a New York-based alternative investments technology company founded in 2012 that gave financial advisors and high-net-worth investors a curated digital experience for discovering, evaluating, and subscribing to private investment funds, including its "Open Network" platform serving roughly 1,800 advisors and management of 28 proprietary alternative investment funds. iCapital Network announced the acquisition of substantially all of Artivest's assets — technology, operating platform, fund management, and enterprise relationships — on 2020-05-13 and closed the transaction in August 2020. The Artivest brand, platform, and public web presence were fully absorbed into iCapital; as of this enrichment pass artivest.co does not resolve and artivest.com is registered to an unrelated third party. Artivest never published a public developer portal, API documentation, or machine-readable API artifacts, and there is no live surface remaining to enrich.
+
+**Areas:** Company · Defunct · Acquired · Financial Services · Alternative Investments · Wealth Management · Fintech · Private Markets
+
+## Artivest on APIs.io (historical record)
+
+Everything profiled for Artivest is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/artivest/](https://apis.io/providers/artivest/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Artivest: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/artivest/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
